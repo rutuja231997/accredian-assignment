@@ -1,6 +1,6 @@
 "use client";
-import React, { useEffect, useState } from "react";
-import { Item } from "../sections/AccredianEdge";
+import { useEffect, useState } from "react";
+import { Item } from "@/types/accredian";
 
 type Props = {
   items: Item[];
