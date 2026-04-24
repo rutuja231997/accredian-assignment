@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useRef, useEffect, useState } from "react";
-import { Item } from "../sections/AccredianEdge";
+import { Item } from "@/types/accredian";
 
 type USPWheelItem = Omit<Item, "icon"> & {
   icon: React.ReactNode;
