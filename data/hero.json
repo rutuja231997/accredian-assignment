@@ -1,0 +1,15 @@
+{
+  "title": "Next-Gen Expertise For Your Enterprise",
+  "description": "Cultivate high-performance teams through expert learning.",
+  "features": [
+    { "id": "1", "text": "Tailored Solutions" },
+    { "id": "2", "text": "Industry Insights" },
+    { "id": "3", "text": "Expert Guidance" },
+    { "id": "4", "text": "Measurable Impact" }
+  ],
+  "cta": {
+    "text": "Enquire Now",
+    "link": "#contact"
+  },
+  "image": "/corporate.jpg"
+}

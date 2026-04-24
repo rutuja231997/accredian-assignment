@@ -1,0 +1,28 @@
+{
+  "logo": {
+    "image": "/logo.jpg",
+    "title": "accredian",
+    "subtitle": "credentials that matter"
+  },
+  "socialLinks": [
+    { "name": "facebook", "icon": "FaFacebookF", "url": "#" },
+    { "name": "linkedin", "icon": "FaLinkedinIn", "url": "#" },
+    { "name": "twitter", "icon": "FaTwitter", "url": "#" },
+    { "name": "instagram", "icon": "FaInstagram", "url": "#" },
+    { "name": "youtube", "icon": "FaYoutube", "url": "#" }
+  ],
+  "links": [
+    { "label": "About", "url": "#" },
+    { "label": "Blog", "url": "#" },
+    { "label": "Why Accredian", "url": "#" }
+  ],
+  "contact": {
+    "email": "enterprise@accredian.com",
+    "address": "4th Floor, 250, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana"
+  },
+  "cta": {
+    "buttonText": "Enquire Now",
+    "subText": "Speak with our Advisor"
+  },
+  "copyright": "© 2026 Accredian A Brand of FullStack Education Pvt Ltd. All Rights Reserved"
+}

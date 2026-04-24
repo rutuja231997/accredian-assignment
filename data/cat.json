@@ -1,0 +1,27 @@
+{
+  "title": "The CAT Framework",
+  "description": "Our Proven Approach to Learning Excellence",
+  "cat_framework": [
+    {
+      "id": "1",
+      "title": "Concept",
+      "description": "Foundational knowledge for deep subject understanding.",
+      "icon": "concept",
+      "position": "left"
+    },
+    {
+      "id": "2",
+      "title": "Application",
+      "description": "Practical implementation through real-world scenarios.",
+      "icon": "application",
+      "position": "center"
+    },
+    {
+      "id": "3",
+      "title": "Tools",
+      "description": "Resources and techniques for effective skill mastery.",
+      "icon": "tools",
+      "position": "right"
+    }
+  ]
+}

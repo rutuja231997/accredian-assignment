@@ -1,0 +1,21 @@
+{
+  "title": "Our Track Record",
+  "description": "The Numbers Behind Our Success",
+  "stats_data": [
+    {
+      "id": 1,
+      "value": 10000,
+      "label": "Professionals trained for exceptional career success"
+    },
+    {
+      "id": 2,
+      "value": 200,
+      "label": "Sessions delivered with unmatched learning excellence"
+    },
+    {
+      "id": 3,
+      "value": 5000,
+      "label": "Active learners engaged in dynamic courses"
+    }
+  ]
+}

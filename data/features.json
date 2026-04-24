@@ -1,0 +1,20 @@
+{
+  "heading": "Why Choose Accredian",
+  "items": [
+    {
+      "id": 1,
+      "title": "Custom Training Programs",
+      "description": "Programs tailored to your organization's needs"
+    },
+    {
+      "id": 2,
+      "title": "Industry Experts",
+      "description": "Learn from experienced professionals"
+    },
+    {
+      "id": 3,
+      "title": "Flexible Learning",
+      "description": "Online, hybrid and enterprise solutions"
+    }
+  ]
+}

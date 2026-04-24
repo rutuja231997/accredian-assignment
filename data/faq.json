@@ -1,0 +1,49 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to common queries about our programs.",
+  "categories": [
+    {
+      "id": "course",
+      "title": "About the Course",
+      "faqs": [
+        {
+          "id": 1,
+          "question": "What types of corporate training programs does Accredian offer?",
+          "answer": "Accredian offers a wide range of corporate training programs including leadership, data, fintech, and AI-focused learning."
+        },
+        {
+          "id": 2,
+          "question": "What domain specializations are available?",
+          "answer": "We offer expertise in Leadership Development, Tech & Data, Fintech, Digital Business, Product Innovation, Operations Management, and Generative AI."
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "title": "About the Delivery",
+      "faqs": [
+        {
+          "id": 3,
+          "question": "How are the courses delivered?",
+          "answer": "Courses are delivered through a mix of live sessions, recorded lectures, and hands-on projects."
+        },
+        {
+          "id": 4,
+          "question": "Are there flexible schedules?",
+          "answer": "Yes, we offer flexible schedules for working professionals."
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "title": "Miscellaneous",
+      "faqs": [
+        {
+          "id": 5,
+          "question": "Do you provide certifications?",
+          "answer": "Yes, all programs come with industry-recognized certifications."
+        }
+      ]
+    }
+  ]
+}

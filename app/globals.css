@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --primary-color: #1e88e5;
+    --secondary-color: #2f5da8;
+    --accent-color: #4fb3d9;
+    --grayDash-color: #bdbdbd;
+  }
+}
+
+/* 2. Map them to Tailwind v4 colors */
+@theme {
+  --color-primary: var(--primary-color);
+  --color-secondary: var(--secondary-color);
+  --color-accent: var(--accent-color);
+  --color-grayDash: var(--grayDash-color);
+}

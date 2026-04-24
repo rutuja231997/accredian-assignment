@@ -1,0 +1,42 @@
+{
+  "title": "Our Proven Partnerships",
+  "description": "Successful Collaborations With the Industry’s Best",
+  "clients": [
+    {
+      "id": 1,
+      "name": "Reliance Industries",
+      "logo": "/rel.png",
+      "website": "https://www.ril.com"
+    },
+    {
+      "id": 2,
+      "name": "HCL",
+      "logo": "/hcl.png",
+      "website": "https://www.hcltech.com"
+    },
+    {
+      "id": 3,
+      "name": "IBM",
+      "logo": "/ibm.png",
+      "website": "https://www.ibm.com"
+    },
+    {
+      "id": 4,
+      "name": "CRIF",
+      "logo": "/crif.png",
+      "website": "https://www.crif.com"
+    },
+    {
+      "id": 5,
+      "name": "ADP",
+      "logo": "/adp.png",
+      "website": "https://www.adp.com"
+    },
+    {
+      "id": 6,
+      "name": "Bayer",
+      "logo": "/bayer.png",
+      "website": "https://www.bayer.com"
+    }
+  ]
+}

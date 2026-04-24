@@ -1,0 +1,55 @@
+{
+  "title": "The Accredian Edge",
+  "description": "Key Aspects of Our Strategic Training",
+  "items": [
+    {
+      "id": 1,
+      "title": "Tailored Solutions",
+      "description": "Programs customized to your organization's goals and challenges.",
+      "icon": "lightbulb",
+      "position": "bottom"
+    },
+    {
+      "id": 2,
+      "title": "Expert Guidance",
+      "description": "Learn from industry leaders with real-world success.",
+      "icon": "user",
+      "position": "top"
+    },
+    {
+      "id": 3,
+      "title": "Innovative Framework",
+      "description": "Proprietary methods for impactful, application-driven results.",
+      "icon": "settings",
+      "position": "bottom"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Technology",
+      "description": "State-of-the-art LMS for seamless learning experiences.",
+      "icon": "globe",
+      "position": "top"
+    },
+    {
+      "id": 5,
+      "title": "Diverse Offerings",
+      "description": "Courses across industries, skill levels, and emerging fields.",
+      "icon": "arrow",
+      "position": "bottom"
+    },
+    {
+      "id": 6,
+      "title": "Proven Impact",
+      "description": "Trusted by leading organizations for measurable ROI.",
+      "icon": "target",
+      "position": "top"
+    },
+    {
+      "id": 7,
+      "title": "Flexible Delivery",
+      "description": "Online and offline options tailored to your needs.",
+      "icon": "box",
+      "position": "bottom"
+    }
+  ]
+}
