@@ -1,4 +1,4 @@
-import { LinePosition } from "./Circle";
+import { LinePosition } from "@/types/accredian";
 
 import CircleHalfBorder from "./CircleHalfBorder";
 
