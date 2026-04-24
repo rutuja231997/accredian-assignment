@@ -67,14 +67,20 @@ const AccredianEdge = ({ accredian }: AccredianProps) => {
         <div className="hidden lg:flex flex-row justify-center items-center">
           {accredian.items.map((item, index) => {
             const color = colorVariants[index % colorVariants.length];
+
+            const transformedItem = {
+              id: item.id, // already number ✅
+              title: item.title,
+              description: item.description,
+              icon: iconMap[item.icon as IconKey], // convert IconKey → ReactNode ✅
+              position: item.position,
+              color,
+            };
+
             return (
               <TimelineItem
                 key={item.id}
-                item={{
-                  ...item,
-                  icon: iconMap[item.icon],
-                  color,
-                }}
+                item={transformedItem}
                 align="right"
                 isFirst={index === 0}
                 isLast={index === accredian.items.length - 1}
@@ -86,9 +92,13 @@ const AccredianEdge = ({ accredian }: AccredianProps) => {
         {/* mobile view */}
         <div className="relative flex items-center justify-center lg:hidden w-full h-125">
           <USPWheel
-            items={accredian.items.map((item) => ({
-              ...item,
-              icon: iconMap[item.icon],
+            items={accredian.items.map((item, index) => ({
+              id: item.id,
+              title: item.title,
+              description: item.description,
+              icon: iconMap[item.icon as IconKey],
+              position: item.position,
+              color: colorVariants[index % colorVariants.length],
             }))}
           />
           <USPList items={accredian.items} />

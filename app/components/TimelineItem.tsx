@@ -1,13 +1,11 @@
-import { LinePosition } from "@/types/accredian";
+import { LinePosition, ColorKey } from "@/types/accredian";
 
 import CircleHalfBorder from "./CircleHalfBorder";
 
 type Align = "left" | "right";
 
-type ColorKey = "primary" | "secondary" | "accent";
-
 type Item = {
-  id: string;
+  id: number;
   title: string;
   description: string;
   icon: React.ReactNode;

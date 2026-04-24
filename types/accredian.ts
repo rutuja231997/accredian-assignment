@@ -1,3 +1,5 @@
+import React from "react";
+
 export type accredians = {
   title: string;
   description: string;
@@ -5,10 +7,10 @@ export type accredians = {
 };
 
 export type Item = {
-  id: number | string;
+  id: number;
   title: string;
   description: string;
-  icon: IconKey;
+  icon: React.ReactNode;
   position: LinePosition;
   color: ColorKey;
 };
