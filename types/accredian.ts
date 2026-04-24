@@ -5,7 +5,7 @@ export type accredians = {
 };
 
 export type Item = {
-  id: string;
+  id: number | string;
   title: string;
   description: string;
   icon: IconKey;

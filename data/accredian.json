@@ -7,49 +7,56 @@
       "title": "Tailored Solutions",
       "description": "Programs customized to your organization's goals and challenges.",
       "icon": "lightbulb",
-      "position": "bottom"
+      "position": "bottom",
+      "color": "primary"
     },
     {
       "id": 2,
       "title": "Expert Guidance",
       "description": "Learn from industry leaders with real-world success.",
       "icon": "user",
-      "position": "top"
+      "position": "top",
+      "color": "primary"
     },
     {
       "id": 3,
       "title": "Innovative Framework",
       "description": "Proprietary methods for impactful, application-driven results.",
       "icon": "settings",
-      "position": "bottom"
+      "position": "bottom",
+      "color": "primary"
     },
     {
       "id": 4,
       "title": "Advanced Technology",
       "description": "State-of-the-art LMS for seamless learning experiences.",
       "icon": "globe",
-      "position": "top"
+      "position": "top",
+      "color": "primary"
     },
     {
       "id": 5,
       "title": "Diverse Offerings",
       "description": "Courses across industries, skill levels, and emerging fields.",
       "icon": "arrow",
-      "position": "bottom"
+      "position": "bottom",
+      "color": "primary"
     },
     {
       "id": 6,
       "title": "Proven Impact",
       "description": "Trusted by leading organizations for measurable ROI.",
       "icon": "target",
-      "position": "top"
+      "position": "top",
+      "color": "primary"
     },
     {
       "id": 7,
       "title": "Flexible Delivery",
       "description": "Online and offline options tailored to your needs.",
       "icon": "box",
-      "position": "bottom"
+      "position": "bottom",
+      "color": "primary"
     }
   ]
 }

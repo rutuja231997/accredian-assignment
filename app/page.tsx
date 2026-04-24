@@ -1,7 +1,5 @@
 "use server";
 
-import axios from "axios";
-
 import Header from "./components/Header";
 
 import Home from "./components/sections/Home";
@@ -14,13 +12,7 @@ import Faq from "./components/sections/Faq";
 import Testimonials from "./components/sections/Testimonial";
 import Footer from "./components/Footer";
 
-async function getHomeData() {
-  const response = await axios.get(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/api/home`,
-  );
-  const data = response.data;
-  return data;
-}
+import { getHomeData } from "@/lib/homeData";
 
 const App = async () => {
   const data = await getHomeData();

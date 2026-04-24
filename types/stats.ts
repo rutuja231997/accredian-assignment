@@ -5,7 +5,7 @@ export type stats = {
 };
 
 export type Stats_Data = {
-  id: string;
+  id: number;
   value: number;
   label: string;
 };

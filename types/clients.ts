@@ -5,7 +5,7 @@ export type clientsProps = {
 };
 
 export type Clients = {
-  id: string;
+  id: number;
   name: string;
   logo: string;
   website: string;
