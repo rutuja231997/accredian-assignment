@@ -15,7 +15,7 @@ import Testimonials from "./components/sections/Testimonial";
 import Footer from "./components/Footer";
 
 async function getHomeData() {
-  const response = await axios.get("http://localhost:3000/api/home");
+  const response = await axios.get("/api/home");
   const data = response.data;
   return data;
 }
